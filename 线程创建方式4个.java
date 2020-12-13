@@ -37,8 +37,6 @@ public class 线程创建方式4个 {
         thread2.start();
 
 
-
-
         //3
         Thread  thread3=new Thread(new Runnable() {
             @Override
