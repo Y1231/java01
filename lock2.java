@@ -11,17 +11,17 @@ import java.util.concurrent.TimeUnit;
 
 /**
  *死锁问题：线程1，线程2都拥有一把锁，都想要对方的锁
- *jconsole
+ * jconsole
  * jvisualvm
 */
 
 /**
  *线程状态：
- * NEW
+ * NEW (就绪状态，还没有调用start）
  * RUNNNABLE   ->start
- * TIMED_WAITING
+ * TIMED_WAITING（调用sleep）
  * BLOCKED
- *
+ * WAITING
  *
  *
 */
