@@ -4,7 +4,7 @@ package 线程.java01;
  * @ Author     ：CYD
  * @ Date       ：Created in 20:54 2020/12/15
  * @ Description：优化懒汉模式，变成线程安全
- * @ Modified By：
+ * @ Modified By：synchronized
  */
 
 public class new_lazy {

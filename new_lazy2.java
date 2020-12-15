@@ -4,7 +4,7 @@ package 线程.java01;
  * @ Author     ：CYD
  * @ Date       ：Created in 21:36 2020/12/15
  * @ Description：懒汉模式优化2
- * @ Modified By：
+ * @ Modified By：synchronized
  */
 
 public class new_lazy2 {
